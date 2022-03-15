@@ -9,6 +9,7 @@
 - 📫 How to reach me:
   - Email: zhz03@g.ucla.edu
   - Linkedin: https://www.linkedin.com/in/zzl03/
+  - GitLab: https://gitlab.com/zhz03
 
 <!--
 **zhz03/zhz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
